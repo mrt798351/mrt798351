@@ -5,7 +5,6 @@
 
 ### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару 
 I'm a game developer on Unity and Unreal Engine. In my free time I do web programming and design
 
 <p align="center">
